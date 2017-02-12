@@ -1,0 +1,7 @@
+# in clu de< std io.h > in t m ain (){
+print(“Yo Soy Ricardo”);
+printf(“Este es m isegundo codigo”); 
+printf(“Prog ramar es facil”);
+printf(“Voy a compartir con  mi compañero el codigo”); 
+return 0;
+}
